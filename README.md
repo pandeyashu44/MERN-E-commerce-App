@@ -9,7 +9,7 @@
 ## Installation process
 1. #### clone the repo using this command
     ```bash
-    git clone https://github.com/ashraf-kabir/mern-ecommerce.git
+    git clone https://github.com/pandeyashu44/MERN-E-commerce-App
     ```
 2. #### install npm packages
     1. install backend packages
